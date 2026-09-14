@@ -20,13 +20,13 @@
       "enabled": true,
       "deathScreenshots": true,
       "extractScreenshots": false,
-      "rareLootScreenshots": true,
+      "rareLootScreenshots": false,
       "questScreenshots": false,
       "bossKillScreenshots": false,
       "achievementScreenshots": true
     },
     "filters": {
-      "minimumRaidDuration": 60,
+      "minimumRaidDuration": 30,
       "ignoredMaps": []
     }
   }
