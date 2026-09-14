@@ -1,13 +1,13 @@
 {
   "configVersion": 1,
   "minimumModVersion": "1.0.0",
-  "communityName": "Serenity Community",
+  "communityName": "Goymunity",
   "settings": {
     "events": {
       "deaths": true,
       "extracts": true,
-      "runThroughs": true,
-      "loot": true,
+      "runThroughs": false,
+      "loot": false,
       "quests": true,
       "bossKills": true,
       "levelUps": true,
@@ -19,10 +19,10 @@
     "screenshots": {
       "enabled": true,
       "deathScreenshots": true,
-      "extractScreenshots": true,
+      "extractScreenshots": false,
       "rareLootScreenshots": true,
-      "questScreenshots": true,
-      "bossKillScreenshots": true,
+      "questScreenshots": false,
+      "bossKillScreenshots": false,
       "achievementScreenshots": true
     },
     "filters": {
